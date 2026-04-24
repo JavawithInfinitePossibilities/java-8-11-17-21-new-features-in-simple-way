@@ -15,6 +15,12 @@
     <modules>
         <module>Section-01-Start-Here</module>
         <module>Section-02-Introduction-to-Java-and-OOPS</module>
+        <module>Section-03-Software-Installation-and-First-Java-Program</module>
+        <module>Section-04-Static-Members-and-their-execution-control-flow</module>
+        <module>Section-05-Non-Static-Members-and-their-execution-control-flow</module>
+        <module>Section-06-Datatypes-Literals-Variables-Type-Conversion-Casting-Promotion</module>
+        <module>Section-07-Wrapper-Classes-with-Auto-boxing-unboxing</module>
+        <module>Section-08-Operators-and-Assignments</module>
     </modules>
 
     <properties>

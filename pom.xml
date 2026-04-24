@@ -55,7 +55,7 @@
             <dependency>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
-                <version>1.18.30</version>
+                <version>1.18.40</version>
                 <scope>provided</scope>
             </dependency>
         </dependencies>
@@ -63,13 +63,21 @@
 
     <build>
         <plugins>
-            <!-- Maven Compiler Plugin - Updated for Java 25 support -->
+            <!-- Maven Compiler Plugin - Updated for Java 25 support with Lombok annotation processing -->
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.13.0</version>
                 <configuration>
                     <source>${maven.compiler.source}</source>
                     <target>${maven.compiler.target}</target>
+                    <!-- Enable annotation processing for Lombok -->
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                            <version>1.18.40</version>
+                        </path>
+                    </annotationProcessorPaths>
                 </configuration>
             </plugin>
             <!-- Maven Surefire Plugin - Updated for JUnit 5 and Java 25 -->
