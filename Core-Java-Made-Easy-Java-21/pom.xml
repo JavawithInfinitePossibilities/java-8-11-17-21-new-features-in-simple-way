@@ -21,6 +21,20 @@
         <module>Section-06-Datatypes-Literals-Variables-Type-Conversion-Casting-Promotion</module>
         <module>Section-07-Wrapper-Classes-with-Auto-boxing-unboxing</module>
         <module>Section-08-Operators-and-Assignments</module>
+        <module>Section-09-Flow-Control-Statements</module>
+        <module>Section-10-Access-Modifiers</module>
+        <module>Section-11-Packages</module>
+        <module>Section-12-Event-Management-Usecase</module>
+        <module>Section-13-Inheritance</module>
+        <module>Section-14-Abstraction</module>
+        <module>Section-15-Polymorphism</module>
+        <module>Section-16-Encapsulation</module>
+        <module>Section-17-Exception-Handling-and-Assertions</module>
+        <module>Section-18-Multithreading</module>
+        <module>Section-19-Executor-Framework-Quick-Start</module>
+        <module>Section-20-Garbage-Collection-Types-Of-Objects</module>
+        <module>Section-21-Inner-classes</module>
+        <module>Section-22-String-Handling</module>
     </modules>
 
     <properties>
