@@ -35,6 +35,10 @@
         <module>Section-20-Garbage-Collection-Types-Of-Objects</module>
         <module>Section-21-Inner-classes</module>
         <module>Section-22-String-Handling</module>
+        <module>Section-23-IO-Streams-File-IO</module>
+        <module>Section-24-Arrays</module>
+        <module>Section-25-Object-class-methods</module>
+        <module>Section-26-Collections-with-Generics</module>
     </modules>
 
     <properties>
@@ -43,4 +47,11 @@
 
     <dependencies>
     </dependencies>
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
+    </build>
 </project>
