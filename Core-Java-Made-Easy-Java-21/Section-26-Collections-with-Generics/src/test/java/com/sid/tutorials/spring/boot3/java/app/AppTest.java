@@ -1,6 +1,7 @@
 package com.sid.tutorials.spring.boot3.java.app;
 
 import com.sid.tutorials.spring.boot3.java.app.data.DummyDataTable;
+import com.sid.tutorials.spring.boot3.java.app.datamanipulation.DataCalculation;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

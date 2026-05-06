@@ -39,6 +39,14 @@
         <module>Section-24-Arrays</module>
         <module>Section-25-Object-class-methods</module>
         <module>Section-26-Collections-with-Generics</module>
+        <module>Section-27-Concurrent-Collections</module>
+        <module>Section-28-Enums</module>
+        <module>Section-29-Java-8-Features</module>
+        <module>Section-30-JVM-Architecture</module>
+        <module>Section-31-Internationalization</module>
+        <module>Section-32-Annotations</module>
+        <module>Section-33-Reflection-API</module>
+        <module>Section-34-Regular-Expressions</module>
     </modules>
 
     <properties>

@@ -97,9 +97,10 @@ public class AppTest {
             executorService.addTask(r5);
             executorService.addTask(r6);
             executorService.join();
+            executorService.setShutdown(true);
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        executorService.setShutdown(true);
+
     }
 }
