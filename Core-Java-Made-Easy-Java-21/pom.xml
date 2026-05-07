@@ -47,6 +47,14 @@
         <module>Section-32-Annotations</module>
         <module>Section-33-Reflection-API</module>
         <module>Section-34-Regular-Expressions</module>
+        <module>Section-35-Dating-App-Usecase</module>
+        <module>Section-36-Flight-Reservation-App</module>
+        <module>Section-37-Interview-Questions</module>
+        <module>Section-38-Java-9-Features</module>
+        <module>Section-39-Java-10-Features</module>
+        <module>Section-40-Java-11-Features</module>
+        <module>Section-41-Java-12-Features</module>
+        <module>Section-42-HTTP-Client-API</module>
     </modules>
 
     <properties>
