@@ -55,6 +55,19 @@
         <module>Section-40-Java-11-Features</module>
         <module>Section-41-Java-12-Features</module>
         <module>Section-42-HTTP-Client-API</module>
+        <module>Section-43-Java-13-and-14-Features</module>
+        <module>Section-44-Java-15-Features</module>
+        <module>Section-45-Java-16-Feature</module>
+        <module>Section-46-Java-17-Features</module>
+        <module>Section-47-Java-18-Features</module>
+        <module>Section-48-Java-19-to-21-Feature</module>
+        <module>Section-49-Additional-Content-Socket-Programming</module>
+        <module>Section-50-Coding-Problems</module>
+        <module>Section-51-Additional-Content-Jar-Files</module>
+        <module>Section-52-Additional-Content-Maven-and-JUnit</module>
+        <module>Section-53-Debugging-Fundamentals</module>
+        <module>Section-54-Math-Class</module>
+        <module>Section-55-Wrap-Up</module>
     </modules>
 
     <properties>
